@@ -1,14 +1,14 @@
 # Demo
 
 
+![ezgif com-video-to-gif (1)](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/ef527d66-f883-4c88-9859-bcb0be98eb6f)
 
-![ezgif com-video-to-gif (1)](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/72c78d8d-f53a-4182-af49-ca4ef596e888)
 
  
  
 ## ERD
 
-![Capture8](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/543eec05-8b7e-4507-a13a-0048d0cd973e)
+![Capture8](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/f90d6286-6be8-4c3f-b66f-ab2c1588420e)
 
  
  # Student-Flex-Management-System-Asp.Net-BackEnd
@@ -19,14 +19,18 @@
  
  
 # UI
-![Capture7](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/bfe9f9b4-f838-4bf8-9cb3-ffce1dd6264b)
 
-![Capture3](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/d7bb3938-fbac-488d-bd79-9a000d4cf8db)
+![Capture3](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/0b809ded-e5c4-4294-b85e-5c5d155835b3)
 
-![Capture4](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/e523ed78-161c-44c0-b7de-4c4c176130ee)
 
-![Capture5](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/acc65a1c-08b4-43a1-897f-c66ea5c5196d)
 
-![Capture6](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/434b5e36-9350-4417-82d4-446de0fec02a)
+![Capture4](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/1d4dcd33-39fa-4f00-af86-84eebaec0d1b)
+
+
+![Capture5](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/77ffaa40-f268-4b8e-9a4a-ff499421f0ff)
+
+![Capture6](https://github.com/MuhammadAliAhson/Student-Flex-Management-System-Asp.Net-BackEnd/assets/105967134/3fedd165-25b6-4f9b-b77a-93462e0d20a1)
+
+
 
 
